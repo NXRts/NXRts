@@ -98,3 +98,4 @@ Motto     : "Always eager to learn new things."
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NXRts&label=views&color=7c3aed&style=flat-square" />
 </div>
+<!-- 2022 -->
