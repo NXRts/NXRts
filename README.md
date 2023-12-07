@@ -18,11 +18,11 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
+Hi, I'm Vradita Candra Kusuma 👋
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        <samp>&gt; Hi, I am
+                <b><a target="_blank" href="https://blog.ayohosting.repl.co/">Muhammad Yusuf Arrofi</a></b>
         </samp>
 </h3>
 
