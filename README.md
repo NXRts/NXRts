@@ -26,7 +26,8 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://ibb.co/k5RF7YM" alt="Pixel Art" />
+<!--  <img align="right" width="350" src="https://ibb.co/k5RF7YM" alt="Pixel Art" /> -->
+[![Si9GH.png](https://s5.gifyu.com/images/Si9GH.png)](https://gifyu.com/image/Si9GH)
   
 Name: Muhammad Yusuf Arrofi<br/>
 My code name is DangouU / NXRts<br/>
