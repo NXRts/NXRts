@@ -38,7 +38,7 @@ I'm always eager to learn new things and challenge myself to build better soluti
 
 </p>
 
-Use To Code
+<b>Use To Code</b>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
