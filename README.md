@@ -35,6 +35,7 @@ School: SMKN 2 KARANGANYAR<br/>
 
 I'm a passionate developer with experience in web development.<br/>
 I'm always eager to learn new things and challenge myself to build better solutions.<br/>
+Just a regular student who's no different from anyone else on the earth.<br/>
 
 </p>
 
