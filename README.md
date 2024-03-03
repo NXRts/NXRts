@@ -19,7 +19,6 @@
  <a href="https://www.instagram.com/my_arrofi/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a>  
-        https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
 </p>
 <br />
 
