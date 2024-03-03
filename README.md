@@ -29,7 +29,7 @@
  <img align="right" width="350" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" />
   
 Name: Muhammad Yusuf Arrofi<br/>
-My code name is DangouU / NXRts<br/>
+My code name is DangouU303Rx / NXRts<br/>
 Age: 17<br/>
 School: SMKN 2 KARANGANYAR<br/>
 
