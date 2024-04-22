@@ -98,6 +98,4 @@ Just a regular student who's no different from anyone else on the earth.<br/>
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=dracula)
-</p>
