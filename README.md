@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://s12.gifyu.com/images/SZa9p.png">
+  </img>
+</p>
+
 <!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hi, I am
-        <b><a target="_blank" href="https://blog.ayohosting.repl.co/">Muhammad Yusuf Arrofi</a></b>
+        <b><a target="_blank" href="#">Muhammad Yusuf Arrofi</a></b>
     </samp>
 </h3>
 
