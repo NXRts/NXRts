@@ -11,9 +11,6 @@
 </h3>
 
 <p align="center">
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="alsiam" />
-    </a>
     <a href="https://blog.ayohosting.repl.co/" target="blank">
         <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
     </a>
@@ -32,36 +29,11 @@
     <a href="https://github.com/NXRts" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alsiam" />
     </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="alsiam" />
-    </a>
 </p>
 <h3 align="center">
     <samp>&gt; Another List</samp>
 </h3>
-<p align="center">
-    <a href="" target="blank">
-        <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="alsiam" />
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="alsiam"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="alsiam" />
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="alsiam" />
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="alsiam" />
-    </a>
 
-    
-    
-</p>
 <br />
 
 <!-- About Section -->
