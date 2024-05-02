@@ -2,6 +2,7 @@
   <img src="https://s12.gifyu.com/images/SZa9p.png">
   </img>
 </p>
+<hr>
 
 <!-- Intro  -->
 <h3 align="center">
