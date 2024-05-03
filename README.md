@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="center">
-    <samp>&gt; Jun'at
+    <samp>&gt; Setiap Hari Jun'at
         <b><a target="_blank" href="#">Libur</a></b>
     </samp>
 </h3>
