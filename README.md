@@ -32,6 +32,12 @@
     </a>
 </p>
 
+<h3 align="center">
+    <samp>&gt; Jun'at
+        <b><a target="_blank" href="#">Libur</a></b>
+    </samp>
+</h3>
+
 <br />
 
 <!-- About Section -->
