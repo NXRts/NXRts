@@ -74,6 +74,7 @@ Just a regular student who's no different from anyone else on the earth.<br/>
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=NXRts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NXRts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
