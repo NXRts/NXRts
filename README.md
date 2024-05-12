@@ -75,6 +75,6 @@ Just a regular student who's no different from anyone else on the earth.<br/>
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=dracula)
-[dark]: https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+![dark]: https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
 
