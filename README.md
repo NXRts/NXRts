@@ -59,6 +59,7 @@ Just a regular student who's no different from anyone else on the earth.<br/>
 
 <b>Use To Code</b>
 <br/>
+<!--
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -73,7 +74,7 @@ Just a regular student who's no different from anyone else on the earth.<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
+ -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NXRts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
