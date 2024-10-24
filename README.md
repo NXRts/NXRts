@@ -43,12 +43,12 @@
 # About me
 
 <div align="center">
-  <img align="left" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" width="200" style="margin-right: 20px;" />
+  <img align="right" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" width="300" style="margin-right: 20px;" />
   <p>
-    **Name:** Muhammad Yusuf Arrofi<br/>
-    **Code name:** DangouU303Rx / NXRts<br/>
-    **Age:** 17<br/>
-    **School:** SMKN 2 KARANGANYAR<br/>
+    Name: Muhammad Yusuf Arrofi<br/>
+    Code name: DangouU303Rx / NXRts<br/>
+    Age: 18<br/>
+    School: SMKN 2 KARANGANYAR<br/>
   </p>
   <p>
     I'm a passionate developer with experience in web development.<br/>
