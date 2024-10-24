@@ -43,7 +43,7 @@
 # About me
 
 <div align="center">
-  <img align="right" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" width="300" style="margin-right: 20px;" />
+<!--   <img align="right" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" width="300" style="margin-right: 20px;" /> -->
   <p>
     Name: Muhammad Yusuf Arrofi<br/>
     Code name: DangouU303Rx / NXRts<br/>
