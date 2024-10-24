@@ -42,21 +42,24 @@
 <br/>
 
 <!-- About Section -->
-<div>
-  <img align="right" width="350" src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art"/>
-  
-  <p>
-    <strong>Name:</strong> Muhammad Yusuf Arrofi<br/>
-    <strong>Code name:</strong> DangouU303Rx / NXRts<br/>
-    <strong>Age:</strong> 17<br/>
-    <strong>School:</strong> SMKN 2 KARANGANYAR<br/><br/>
-    I'm a passionate developer with experience in web development.<br/>
-    Always eager to learn new things and challenge myself to build better solutions.<br/>
-    Just a regular student who's no different from anyone else on the earth.<br/>
-  </p>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; padding: 10px;">
+    <p>
+      <strong>Name:</strong> Muhammad Yusuf Arrofi<br/>
+      <strong>Code name:</strong> DangouU303Rx / NXRts<br/>
+      <strong>Age:</strong> 17<br/>
+      <strong>School:</strong> SMKN 2 KARANGANYAR<br/><br/>
+      I'm a passionate developer with experience in web development.<br/>
+      Always eager to learn new things and challenge myself to build better solutions.<br/>
+      Just a regular student who's no different from anyone else on the earth.<br/>
+    </p>
+  </div>
+  <div style="flex: 1; min-width: 250px; padding: 10px;">
+    <img src="https://s5.gifyu.com/images/Si9GH.png" alt="Pixel Art" style="max-width: 100%; border-radius: 10px;"/>
+  </div>
 </div>
 
-<br clear="both"/>
+<br/>
 
 <!-- Technologies Used -->
 <h3><b>Use To Code:</b></h3>
