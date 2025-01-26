@@ -76,7 +76,10 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=dracula" alt="Top Languages" width="45%" />
-</div>
+## Github Statistic:
+<p align="center">
+  <a href="https://github.com/Dikaayyy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
