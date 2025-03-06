@@ -75,18 +75,35 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
 ## Github Statistic:
-<p align="center">
-  <a href="https://github.com/NXRts">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/NXRts">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical"/>
+    </a>
+  </p>
+ -->
+
+<!-- GitHub Stats -->
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Statistic
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=NXRts&theme=dark&show_icons=true&count_private=true" />
+        <br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NXRts&theme=dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NXRts&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
 <!--END_SECTION:waka-->
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+<a href="#">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 </a>
