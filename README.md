@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<!-- GitHub Stats
+<!-- GitHub Stats -->
 ## Github Statistic:
   <p align="center">
     <a href="https://github.com/NXRts">
@@ -83,9 +83,9 @@
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical"/>
     </a>
   </p>
- -->
 
-<!-- GitHub Stats -->
+
+<!-- GitHub Stats
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Statistic
 <table align="center">
   <tr border="none">
@@ -99,7 +99,7 @@
     </td>
   </tr>
 </table>
-
+ -->
 
 <br>
 
