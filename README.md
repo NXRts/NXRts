@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image">
+  <img src="https://www.kelche.co/images/gopher/dancing-gopher.gif">
 </p>
 
 <hr>
