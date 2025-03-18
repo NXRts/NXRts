@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px;"> -->
+  <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;">
   <img src="https://www.kelche.co/images/gopher/dancing-gopher.gif" alt="Dancing Gopher" style="float: right; margin-left: 10px;">
 </p>
 
