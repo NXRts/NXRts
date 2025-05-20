@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0:243694,50:264778,100:427786 />
+</div>
+
 <p align="center">
 <!-- <!--   <img src="https://s12.gifyu.com/images/SZa9p.png" alt="Banner Image" style="float: left; margin-right: 10px; width: 40%;"> -->
   <img src="https://www.kelche.co/images/gopher/dancing-gopher.gif" alt="Dancing Gopher" style="float: right; margin-left: 10px;">
