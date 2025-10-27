@@ -84,8 +84,8 @@
 ## Github Statistic:
   <p align="center">
     <a href="https://github.com/NXRts">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NXRts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="NXRts"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NXRts&layout=compact&langs_count=8&theme=radical" alt="NXRts"/>
     </a>
   </p>
 
