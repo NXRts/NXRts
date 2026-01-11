@@ -16,7 +16,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://nxrts.vercel.app/" target="_blank">
+  <a href="https://nxrts-mee.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge">
   </a>
   <a href="https://linkedin.com/in/muhammad-yusuf-arrofi-a26140299/" target="_blank">
