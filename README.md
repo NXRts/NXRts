@@ -127,7 +127,29 @@ Saya menggunakan kombinasi teknologi web klasik, modern, dan bahasa backend perf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
 </div>
 
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![NXRts's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nxrts&theme=tokyo-night&hide_border=true)](https://github.com/NXRts/github-readme-activity-graph)
+
+</div>
+
 <br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-yusfarrofi21@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufarrofi21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@my_arrofi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/my_arrofi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nxrts-mee.vercel.app/)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NXRts&label=Profile%20views&color=0e75b6&style=flat" alt="NXRts" />
+</div>
 
 <div align="center">
   <a href="#">
