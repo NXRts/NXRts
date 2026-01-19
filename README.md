@@ -18,13 +18,16 @@
 
 <div align="center">
   <a href="https://nxrts-mee.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://markdown-mee.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Markdown_App-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown App"/>
   </a>
   <a href="https://linkedin.com/in/muhammad-yusuf-arrofi-a26140299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/MYArrofi" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/my_arrofi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -49,10 +52,11 @@
     <td valign="top" width="60%">
       <br/>
       <ul>
-        <li><b>Code Name</b>: Yusuf Arrofi / <code>nxrts</code></li>
+        <li><b>Code Name</b>: DangouU303Rx / <code>nxrts</code></li>
         <li><b>Age</b>: 19 y/o</li>
         <li><b>Education</b>: SMKN 2 KARANGANYAR (Graduate)</li>
         <li><b>Focus</b>: Transisi dari PHP/Laravel ke <b>Modern JavaScript (Next.js/React)</b> & <b>Go</b>.</li>
+        <li><b>My Projects</b>: Check out my <a href="https://markdown-mee.vercel.app">Markdown Editor</a>.</li>
         <li><b>Motto</b>: <i>"Just a regular developer who's always eager to learn new things."</i></li>
       </ul>
     </td>
