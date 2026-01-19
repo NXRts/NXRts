@@ -49,7 +49,7 @@
     <td valign="top" width="60%">
       <br/>
       <ul>
-        <li><b>Code Name</b>: DangouU303Rx / <code>nxrts</code></li>
+        <li><b>Code Name</b>: Yusuf Arrofi / <code>nxrts</code></li>
         <li><b>Age</b>: 19 y/o</li>
         <li><b>Education</b>: SMKN 2 KARANGANYAR (Graduate)</li>
         <li><b>Focus</b>: Transisi dari PHP/Laravel ke <b>Modern JavaScript (Next.js/React)</b> & <b>Go</b>.</li>
