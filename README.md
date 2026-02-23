@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:243694,50:264778,100:427786&section=header&fontSize=90" />
 </div>
@@ -49,7 +50,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
       <br/>
       <ul>
         <li><b>Code Name</b>: DangouU303Rx / <code>nxrts</code></li>
@@ -60,11 +61,19 @@
         <li><b>Motto</b>: <i>"Just a regular developer who's always eager to learn new things."</i></li>
       </ul>
     </td>
-    <td valign="top" width="40%">
-       <div align="center">
-         <br/>
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NXRts&repo=NXRts&theme=tokyonight&hide_border=true" alt="Repo Card" />
-       </div>
+    <td valign="top" width="50%">
+      <br/>
+      <div style="margin-left: 20px;">
+        <b>Featured Projects</b>
+        <ul style="margin-top: 10px;">
+          <li><a href="https://japan-mee.vercel.app/">Japan App</a></li>
+          <li><a href="https://markdown-mee.vercel.app">Markdown App</a></li>
+          <li><a href="https://music-mee.vercel.app/">Music Player</a></li>
+          <li><a href="https://kompres.vercel.app/">Smart Compressor</a></li>
+          <li><a href="https://github.com/NXRts/RemoveBG">RemoveBG</a></li>
+          <li><a href="https://focease.vercel.app/">FocEase</a></li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
