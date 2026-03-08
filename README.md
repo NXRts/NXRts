@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/NXRts">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=SMKN+2+KARANGANYAR+Graduate;Fullstack+Web+Developer;Linux+Enthusiast+(Arch%2FDebian);Building+modern+webs+with+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=SMKN+2+KARANGANYAR+Graduate;Web+Developer;Linux+Enthusiast+(Arch%2FDebian);Building+modern+webs+with+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
