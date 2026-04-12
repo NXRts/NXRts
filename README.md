@@ -26,7 +26,7 @@ Alias     : nxrts / DangouU303Rx
 Age       : 19
 Education : SMKN 2 Karanganyar (Graduate)
 Focus     : Next.js · React · Go
-OS        : Arch Linux (btw) & CachyOs
+OS        : CachyOs & Arch Linux (btw)
 Status    : Open to Work & Freelance
 Motto     : "Always eager to learn new things."
 ```
