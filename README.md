@@ -22,7 +22,7 @@
 
 ```yaml
 Name      : Muhammad Yusuf Arrofi
-Alias     : nxrts / DangouU303Rx
+Alias     : NXRts / DangouU303Rx
 Age       : 19
 Education : SMKN 2 Karanganyar (Graduate)
 Focus     : Next.js · React · Go
