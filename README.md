@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=header" />
 </div>
 
-<h2 align="center">Yusuf Arrofi <code>NXRtts</code></h2>
+<h2 align="center">Yusuf Arrofi <code>NXRts</code></h2>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
