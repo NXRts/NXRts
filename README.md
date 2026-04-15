@@ -63,20 +63,16 @@ Motto     : "Always eager to learn new things."
 ---
 
 ### 📊 Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NXRts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NXRts&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nxrts&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXRts&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NXRts&theme=tokyonight" width="100%"/>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NXRts&label=views&color=7c3aed&style=flat-square" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f0c29,50:302b63,100:24243e" />
 </div>
