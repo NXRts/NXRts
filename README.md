@@ -29,6 +29,7 @@ Focus     : Next.js · React · Go
 OS        : CachyOs & Arch Linux (btw)
 Status    : Open to Work & Freelance
 Motto     : "Always eager to learn new things."
+            "If it ain't broke, don't fix it"
 
 ```
 
