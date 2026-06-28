@@ -61,6 +61,7 @@ Motto     : "Always eager to learn new things."
 | Smart Compressor | [kompres.vercel.app](https://kompres.vercel.app) |
 | RemoveBG | [github.com/NXRts/RemoveBG](https://github.com/NXRts/RemoveBG) |
 | FocEase | [focease.vercel.app](https://focease.vercel.app) |
+| DataSacry | [datascry.vercel.app/](https://datascry.vercel.app) |
 
 ---
 
