@@ -58,11 +58,10 @@ Motto     : "Always eager to learn new things."
 | Japan App | [japan-mee.vercel.app](https://japan-mee.vercel.app) |
 | Markdown Editor | [markdown-mee.vercel.app](https://markdown-mee.vercel.app) |
 | Music Player | [music-mee.vercel.app](https://music-mee.vercel.app) |
-| Smart Compressor | [kompres.vercel.app](https://kompres.vercel.app) |
-| RemoveBG | [github.com/NXRts/RemoveBG](https://github.com/NXRts/RemoveBG) |
 | FocEase | [focease.vercel.app](https://focease.vercel.app) |
+| RemoveBG | [github.com/NXRts/RemoveBG](https://github.com/NXRts/RemoveBG) |
 | DataSacry | [datascry.vercel.app/](https://datascry.vercel.app) |
-|Kompres Data | [https://kompres.vercel.app/](https://kompres.vercel.app/)|
+| Kompres Data | [https://kompres.vercel.app/](https://kompres.vercel.app/)|
 
 ---
 
