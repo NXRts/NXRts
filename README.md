@@ -47,7 +47,7 @@ Motto     : "Always eager to learn new things."
 `Node.js` `Laravel` `CodeIgniter` `PostgreSQL` `MySQL` `Firebase` `Prisma`
 
 **Tools**
-`Git` `Docker` `Vercel` `Linux` `Bash` `Figma` `Postman` `VSCode`
+`Git` `Docker` `Vercel` `Linux` `Bash` `Figma` `Postman` `VSCode` `Windows 11`
 
 ---
 
