@@ -59,7 +59,7 @@ Motto     : "Always eager to learn new things."
 | Markdown Editor | [markdown-mee.vercel.app](https://markdown-mee.vercel.app) |
 | Music Player | [music-mee.vercel.app](https://music-mee.vercel.app) |
 | FocEase | [focease.vercel.app](https://focease.vercel.app) |
-| RemoveBG | [github.com/NXRts/RemoveBG](https://github.com/NXRts/RemoveBG) |
+| RemoveBG | [github.com/NXRts/RemoveBG](https://remove-bg-ebon.vercel.app/) |
 | DataSacry | [datascry.vercel.app/](https://datascry.vercel.app) |
 | Kompres Data | [https://kompres.vercel.app/](https://kompres.vercel.app/)|
 
