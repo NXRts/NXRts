@@ -67,11 +67,11 @@ Motto     : "Always eager to learn new things."
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NXRts&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NXRts&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXRts&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NXRts&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NXRts&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NXRts&theme=tokyonight" width="100%"/>
