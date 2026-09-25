@@ -24,13 +24,13 @@
 Name      : Muhammad Yusuf Arrofi
 Alias     : NXRts / DangouU303Rx
 Age       : 20
-Education : SMKN 2 Karanganyar (Graduate)
+Education : - SMKN 2 Karanganyar (Graduate)
+            - Universitas Muhammadiyah Karanganyar / UMUKA SOLO (S1 Informatika)
 Focus     : Next.js · React · Go
-OS        : CachyOs & Arch Linux (btw)
+OS        : CachyOS & Arch Linux (btw)
 Status    : Open to Work & Freelance
 Motto     : "Always eager to learn new things."
             "If it ain't broke, don't fix it"
-
 ```
 
 ---
