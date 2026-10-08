@@ -66,7 +66,7 @@ Motto     : "Always eager to learn new things."
 | RemoveBG        | [https://github.com/NXRts/RemoveBG](https://remove-bg-ebon.vercel.app/) |
 | DataSacry       | [https://datascry.vercel.app/](https://datascry.vercel.app)             |
 | Kompres Data    | [https://kompres.vercel.app/](https://kompres.vercel.app/)      |
-| Yusuf Expedition| [https:yuexp.vercel.app/](https:yuexp.vercel.app)               |
+| Yusuf Expedition| [https://yuexp.vercel.app/](https://yuexp.vercel.app)               |
 
 ---
 
