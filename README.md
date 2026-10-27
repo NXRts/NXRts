@@ -45,7 +45,7 @@ Motto     : "Always eager to learn new things."
 `Next.js` `React` `Vue` `Astro` `Tailwind CSS` `Flutter`
 
 **Languages**
-`Go` `TypeScript` `JavaScript` `PHP`
+`Go` `TypeScript` `JavaScript` `PHP` `Python`
 
 **Backend & DB**
 `Node.js` `Laravel` `CodeIgniter` `PostgreSQL` `MySQL` `Firebase` `Prisma`
